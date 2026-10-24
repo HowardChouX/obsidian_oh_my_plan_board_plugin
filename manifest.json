@@ -1,0 +1,9 @@
+{
+	"id": "oh-my-plan-board",
+	"name": "Oh My Plan Board",
+	"version": "0.1.0",
+	"minAppVersion": "1.13.0",
+	"description": "按 Day 展示计划清单，支持逐项勾选、单日进度与总进度；笔记可直接手动编辑，也提供脚本接口创建计划。",
+	"author": "Chou",
+	"isDesktopOnly": false
+}

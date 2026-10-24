@@ -1,0 +1,19 @@
+# Dependencies (npm install)
+node_modules/
+
+# Upstream reference checkouts: read-only material, not part of the plugin
+_ref/
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
+npm-debug.log*
+
+# Obsidian vault scaffolding, in case this folder is opened as a vault
+.obsidian/
+data.json
+
+# main.js and styles.css are committed on purpose:
+# Obsidian loads main.js directly and manual/BRAT installs copy it from the repo.
